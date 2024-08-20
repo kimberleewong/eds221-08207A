@@ -1,0 +1,14 @@
+---
+title: "eds221-08207A"
+author: "kimmy wong"
+format: html
+editor_options: 
+  chunk_output_type: console
+---
+## load packages
+```{r}
+library(tidyverse)
+library(palmerpenguins)
+library(lubridate)
+```
+
